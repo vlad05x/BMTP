@@ -1,6 +1,7 @@
 # depslib dependency file v1.0
-1707328400 source:e:\university\bmtp\bmtp-lab7-honcharenko\prj\honcharenko-task_7_1\main.c
+1707401883 source:e:\university\bmtp\bmtp-lab7-honcharenko\prj\honcharenko-task_7_1\main.c
 	<stdio.h>
+	<stdlib.h>
 	<string.h>
 	<ctype.h>
 
